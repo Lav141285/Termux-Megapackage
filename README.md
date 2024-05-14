@@ -24,23 +24,23 @@ Its Hard to Install Every Huge Tool like Metasploit, Kali Nethunter Rootless and
  ### Installation Termux-Megapackage
  * `Commands` for termux
 ```
-$ termux-setup-storage
+termux-setup-storage
 
-$ pkg update && pkg upgrade && pkg install git -y
+pkg update && pkg upgrade && pkg install git -y
 
-$ git clone https://github.com/Bhaviktutorials/Termux-Megapackage
+git clone https://github.com/Bhaviktutorials/Termux-Megapackage
 
-$ ls
+ls
 
-$ cd Termux-Megapackage
+cd Termux-Megapackage
 
-$ ls
+ls
 
-$ chmod +x *
+chmod +x *
 
-$ ./install.sh
+./install.sh
 
-$ m-pkg
+m-pkg
 ```
 #### For Video Tutorial:-
 [YouTube](https://youtu.be/7xZFg67y1Ug)
